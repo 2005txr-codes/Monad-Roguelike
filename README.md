@@ -1,4 +1,4 @@
-﻿# Monad Blitz Roguelike
+# Monad Blitz Roguelike
 
 2D multiplayer roguelike for Monad Blitz@Guangzhou hackathon.
 
